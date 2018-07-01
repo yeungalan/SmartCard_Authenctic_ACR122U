@@ -1,0 +1,11 @@
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.xml
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbprojResolveAssemblyReference.cache
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.Resources.resources
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbproj.GenerateResource.Cache
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbproj.CoreCompileInputs.cache
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.xml
+C:\Users\Yeung_Ho_Lun\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
